@@ -1,0 +1,22 @@
+DISCHARGE SUMMARY
+
+Patient: Sample Patient
+Admitted: 2 March 2026
+Discharged: 6 March 2026
+
+DIAGNOSIS:
+Community acquired pneumonia, right lower lobe.
+
+Hospital course:
+Patient came in with fever and cough for four days. Chest x-ray showed
+right lower lobe consolidation. Started on IV antibiotics and switched to
+oral on day 3. Oxygen was not needed after day 2.
+
+MEDICATIONS ON DISCHARGE:
+- Amoxicillin 500 mg three times daily for 5 days
+- Paracetamol 1 g as needed
+- Salbutamol inhaler as needed
+
+FOLLOW UP:
+1. GP review in one week
+2. Repeat chest x-ray in 6 weeks
