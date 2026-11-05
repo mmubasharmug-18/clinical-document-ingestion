@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+PyMuPDF
+python-docx
+beautifulsoup4
+pytesseract
+Pillow
+reportlab
